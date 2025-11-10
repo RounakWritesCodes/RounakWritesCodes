@@ -1,11 +1,11 @@
 <div align="center">
-  <img height="400" width="600" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnlyajQzdzN0dGY5MzNkeHF4ZmhieGJjejFrem00ZnMzM3E2enJqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aDS8SjVtS3Mwo/giphy.gif"  />
+  <img height="300" width="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnlyajQzdzN0dGY5MzNkeHF4ZmhieGJjejFrem00ZnMzM3E2enJqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aDS8SjVtS3Mwo/giphy.gif"  />
 </div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=200&text=Rounak%20%20Padhi%20🐉&textBg=false&fontColor=f3efe0" />
 </div>
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=rounak007-ai.rounak007-ai&left_color=beige"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RounakWritesCodes.RounakWritesCodes&left_color=beige"  />
 </div>
 <h3 align="left">👩‍💻 About Me</h3>
 
