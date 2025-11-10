@@ -46,9 +46,35 @@
 
 ###
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=RounakWritesCodes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<h3 align="center">🔥 My GitHub Stats 🔥</h3>
+
+<div align="center">
+
+
+  <div style="
+    display: inline-block;
+    padding: 25px 40px;
+    border-radius: 25px;
+    background: linear-gradient(145deg, rgba(10,10,10,0.85), rgba(20,20,20,0.9));
+    box-shadow: 0px 0px 30px rgba(0,255,255,0.4), inset 0px 0px 10px rgba(0,255,255,0.1);
+    border: 2px solid rgba(0,255,255,0.2);
+    backdrop-filter: blur(10px);
+  ">
+
+  <h2 style="font-family: 'Poppins', sans-serif; color: #00FFFF; margin-bottom: 20px; text-shadow: 0 0 10px #00FFFF;">
+    💠 Contribution Overview 💠
+  </h2>
+
+
+  <img src="https://streak-stats.demolab.com?user=RounakWritesCodes&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10&order=3" height="180" alt="streak graph" />
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=RounakWritesCodes&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&rank_icon=github&include_all_commits=true&count_private=true" height="180" alt="GitHub stats" />
+
+  </div>
 </div>
+
+
 
 ###
 
