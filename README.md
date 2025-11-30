@@ -69,7 +69,7 @@
   <img src="https://streak-stats.demolab.com?user=RounakWritesCodes&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10&order=3" height="180" alt="streak graph" />
   <br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=RounakWritesCodes&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10&rank_icon=github&include_all_commits=true&count_private=true" height="180" alt="GitHub stats" />
+
 
   </div>
 </div>
