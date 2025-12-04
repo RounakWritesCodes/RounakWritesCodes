@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="300" width="500" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnlyajQzdzN0dGY5MzNkeHF4ZmhieGJjejFrem00ZnMzM3E2enJqNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aDS8SjVtS3Mwo/giphy.gif"  />
+  <img height="300" width="500" src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif"  />
 </div>
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=transparent&height=200&text=Rounak%20%20Padhi%20🐉&textBg=false&fontColor=f3efe0" />
@@ -80,7 +80,7 @@
 
 <table>
 <tr>
-<td><img align="left" height="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDZtbTcxc3E1bm04em05cjI4aGx6NTIwcGswdW1wczQxMmJ5cjViaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jdFm2bcWlj4EUVCpc0/giphy.gif"/></td>
+<td><img align="left" height="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"/></td>
 <td>
 
 ###
